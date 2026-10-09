@@ -1,0 +1,45 @@
+key,year,title,main_tool
+ETXR3A85,2011,A Model-Driven Architecture Approach for Agent-Based Modeling and Simulation,AMF (Agent Modeling Framework)
+6X5H8T8U,2013,A Process Based on the Model-Driven Architecture to Enable the Definition of Platform-Independent Simulation Models,AMF (Agent Modeling Framework)
+QN6QR8EC,2014,Model-driven Development and Validation of Multi-agent Systems in JIAC V with the Agent World Editor,AWE (Agent World Editor)
+VUC5CYYM,2021,AgentDSM-Eval: A framework for the evaluation of domain-specific modeling languages for multi-agent systems,AgentDSM-Eval
+YTZ2VEHW,2012,A generic agent-oriented model used fordesigning a collaborative information system,AndroMDA
+RP9XY3Z7,2009,Engineering Adaptive Multi-Agent Systems with ODAM Methodology,CASE Toolkits
+HPTRR7GR,2008,Model Driven Engineering for Designing Adaptive Multi-Agents Systems,EMF (Eclipse Modeling Framework)
+AMF7XUSY,2009,A platform-independent metamodel for multiagent systems,EMF (Eclipse Modeling Framework)
+RJNJTCSV,2009,An adaptive security model using agent-oriented MDA,EMF (Eclipse Modeling Framework)
+6YNZQN4D,2009,Model-Driven Integration of Organizational Models,EMF (Eclipse Modeling Framework)
+8BZRWJQL,2009,Towards the Coexistence of Different Multi-Agent System Modeling Languages with a Powertype-Based Metamodel,EMF (Eclipse Modeling Framework)
+KZCJT384,2012,Model-driven engineering techniques for the development of multi-agent systems,EMF (Eclipse Modeling Framework)
+FSUVS56C,2013,A model driven engineering process of platform neutral agents for ambient intelligence devices,EMF (Eclipse Modeling Framework)
+I6JKTY6Y,2013,A Model-Driven CASE tool for developing and verifying regulated open MAS,EMF (Eclipse Modeling Framework)
+4JNPK2BR,2013,Towards an MDE Methodology to Develop Multi-Agents Systems including Mobile Agents,EMF (Eclipse Modeling Framework)
+6HGSGTN5,2017,Disaster Knowledge Management Analysis Framework Utilizing Agent-Based Models: Design Science Research Approach,EMF (Eclipse Modeling Framework)
+DCEB9WLM,2017,Agent-oriented model-driven development for JADE with the JADEL programming language,EMF (Eclipse Modeling Framework)
+U5VG9YEA,2017,Supporting the platform extensibility for the model-driven development of agent systems by the interoperability between domain-specific modeling languages of multi-agent systems,EMF (Eclipse Modeling Framework)
+SNJXAGQL,2017,Model-driven engineering of multi-agent systems based on ontologies,EMF (Eclipse Modeling Framework)
+24TKEUKA,2018,Extending a Multi-Agent Systems Simulation Architecture for Systems-of-Systems Security Analysis,EMF (Eclipse Modeling Framework)
+4Z2CP7L8,2020,Transformation from SysML to RePast and Back,EMF (Eclipse Modeling Framework)
+H6ZYQTGP,2020,An Approach for Transforming CIM to PIM up To PSM in MDA,EMF (Eclipse Modeling Framework)
+6IRY7B5B,2024,DSML4JaCaMo: A Modelling tool for Multi-agent Programming with JaCaMo,EMF (Eclipse Modeling Framework)
+B7CMUYNU,2025,Debugging in the Domain-Specific Modeling Languages for multi-agent systems,EMF (Eclipse Modeling Framework)
+HRXVIRMD,2025,Towards Formal Specification of Agent-based Transport Models,EMF (Eclipse Modeling Framework)
+R5J3KWWI,2021,Model-Driven Design and Development of Flexible Automated Production Control Configurations for Industry 4.0,FAM (Flexible Automation Middleware)
+B4YQQR7S,2006,Model Driven Development of Multi-Agent Systems,IDK
+TQ3SDE6R,2008,Model-Driven Engineering of Multi Agent Systems,IDK
+M8GCWP7W,2009,A Multi-Agent System Architecture for Sensor Networks,IDK
+G73F3WQR,2011,The SiCoSSyS approach to SoS engineering,IDK
+IJ3MGUIR,2013,A collection of method fragments automated with model transformations in agent-oriented modeling,IDK
+FE3WA2Q6,2016,A model-driven approach for constructing ambient assisted-living multi-agent systems customized for Parkinson patients,IDK
+T2RG66H7,2020,Modeling multi-agent systems to simulate sensor-based Smart Roads,IDK
+N94EJQ2P,2015,MAS-ML 2.0: Supporting the modelling of multi-agent systems with different agent architectures,MAS-ML 2.0
+HZPHPHHG,2022,A Language for Agent-based Discrete-event Modeling and Simulation of Linked Lives,ML3 (modeling language for linked lives)
+FYKKLQJT,2009,A Tool for Generating Model Transformations By-Example in Multi-Agent Systems,MTGenerator
+Q7DD36XY,2005,Bridging the Gap Between Agent-Oriented Design and Implementation Using MDA,Malaca
+Z2RTDPPQ,2007,Towards a model driven process for multi-agent system,MetaGen developmenttool
+LLHA6TCA,2012,Describing Cloud Use Case in MetaMORP(h)OSY,MetaMORP(h)OSY
+YKI95458,2014,Critical Systems Verification in MetaMORP(h)OSY,MetaMORP(h)OSY
+2WBDRH44,2013,Using Model Driven Architecture to Develop Multi-Agent Systems,Protégé
+WR8U35GR,2016,A systematic approach to evaluating domain-specific modeling language environments for multi-agent systems,SEA_ML
+RKE5D2JW,2016,Interoperability of MAS DSMLs via horizontal model transformations,SEA_ML
+RNS732EU,2010,Enhancing the Interoperability between Multiagent Systems and Service-Oriented Architectures through a Model-Driven Approach,SHAPE (Semantically-enabled Heterogeneous Service Architecture and Platforms Engineering)
