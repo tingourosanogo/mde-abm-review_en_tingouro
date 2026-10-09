@@ -1,0 +1,39 @@
+tag.x,tag.y,weight
+Autonomic / Self-x / Organic Computing,Metamodelling / DSML Design,1
+Autonomic / Self-x / Organic Computing,Model Transformations / MDA / Code Generation,3
+Co-simulation / DEVS / Continuous-Time,Industry / Manufacturing / Scheduling / Industry 4.0,1
+Co-simulation / DEVS / Continuous-Time,Metamodelling / DSML Design,3
+Co-simulation / DEVS / Continuous-Time,Model Transformations / MDA / Code Generation,1
+Co-simulation / DEVS / Continuous-Time,Platforms / Frameworks ABM/MAS,1
+Co-simulation / DEVS / Continuous-Time,Transport / Traffic / ABTM / Smart Roads,1
+Co-simulation / DEVS / Continuous-Time,Verification / Validation / Debugging / Evaluation,1
+Disaster / Emergency Management,Metamodelling / DSML Design,2
+Energy / Smart Grids / CIM / Power Systems,Metamodelling / DSML Design,1
+Energy / Smart Grids / CIM / Power Systems,Model Transformations / MDA / Code Generation,2
+Energy / Smart Grids / CIM / Power Systems,Organizational Models / Interoperability,1
+Energy / Smart Grids / CIM / Power Systems,Platforms / Frameworks ABM/MAS,1
+Health / AAL / Ambient Assisted Living,Metamodelling / DSML Design,1
+Health / AAL / Ambient Assisted Living,Model Transformations / MDA / Code Generation,2
+Industry / Manufacturing / Scheduling / Industry 4.0,Metamodelling / DSML Design,4
+Industry / Manufacturing / Scheduling / Industry 4.0,Model Transformations / MDA / Code Generation,3
+Industry / Manufacturing / Scheduling / Industry 4.0,Platforms / Frameworks ABM/MAS,2
+Industry / Manufacturing / Scheduling / Industry 4.0,SOA / Service-Oriented / SoaML,1
+Metamodelling / DSML Design,Model Transformations / MDA / Code Generation,27
+Metamodelling / DSML Design,Organizational Models / Interoperability,5
+Metamodelling / DSML Design,Platforms / Frameworks ABM/MAS,12
+Metamodelling / DSML Design,SOA / Service-Oriented / SoaML,2
+Metamodelling / DSML Design,SoS / Security / Cyber-Physical Systems,3
+Metamodelling / DSML Design,Transport / Traffic / ABTM / Smart Roads,2
+Metamodelling / DSML Design,Verification / Validation / Debugging / Evaluation,4
+Model Transformations / MDA / Code Generation,Organizational Models / Interoperability,6
+Model Transformations / MDA / Code Generation,Platforms / Frameworks ABM/MAS,16
+Model Transformations / MDA / Code Generation,SOA / Service-Oriented / SoaML,2
+Model Transformations / MDA / Code Generation,SoS / Security / Cyber-Physical Systems,5
+Model Transformations / MDA / Code Generation,Transport / Traffic / ABTM / Smart Roads,4
+Model Transformations / MDA / Code Generation,Verification / Validation / Debugging / Evaluation,6
+Organizational Models / Interoperability,Platforms / Frameworks ABM/MAS,5
+Organizational Models / Interoperability,SOA / Service-Oriented / SoaML,1
+Platforms / Frameworks ABM/MAS,SOA / Service-Oriented / SoaML,2
+Platforms / Frameworks ABM/MAS,Verification / Validation / Debugging / Evaluation,1
+SoS / Security / Cyber-Physical Systems,Verification / Validation / Debugging / Evaluation,1
+Transport / Traffic / ABTM / Smart Roads,Verification / Validation / Debugging / Evaluation,1
